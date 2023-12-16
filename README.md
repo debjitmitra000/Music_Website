@@ -6,10 +6,10 @@
 <h2>About</h2>
 
 A music website made using HTML, CSS, and JS.
-- Play, Pause, visit Next and Previous music.
-- Interactive seek play bar.
-- Functioning Volume bar.
-- Picture, Song name and Author name changes with song on the Cover.
+- Play, Pause, visit Next or Previous music.
+- Interactive seek bar.
+- Functioning volume bar.
+- The picture, song name, and author name change with the song on the cover.
 - Working slide barin more songs section.
   
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
